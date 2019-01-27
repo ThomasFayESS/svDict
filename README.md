@@ -1,2 +1,2 @@
 # svDict
-Svenska ordbok som Python ordbok
+Svenska ordbok som Python ordbok.
